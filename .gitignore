@@ -1,0 +1,10 @@
+node_modules/
+build/
+coverage/
+public/
+*.log*
+.cache/
+.idea/
+.npmrc
+.DS_Store
+*.env*
